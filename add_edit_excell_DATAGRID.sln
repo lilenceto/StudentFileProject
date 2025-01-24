@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "add_edit_excell_DATAGRID", "add_edit_excell_DATAGRID\add_edit_excell_DATAGRID.csproj", "{79C31396-4C61-4DCB-865F-6FB8131659FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C31396-4C61-4DCB-865F-6FB8131659FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C31396-4C61-4DCB-865F-6FB8131659FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C31396-4C61-4DCB-865F-6FB8131659FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C31396-4C61-4DCB-865F-6FB8131659FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F89B8E-2F5F-4AAA-9B16-D79A809C4012}
+	EndGlobalSection
+EndGlobal
