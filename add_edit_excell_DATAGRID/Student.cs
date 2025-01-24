@@ -6,7 +6,7 @@ public class Student
     public string mail { get; set; }
     public string fcNumber { get; set; }
     public double grade { get; set; }
-
+     
     public Student() { }
 
     public Student(string name, string mail, string fcNumber)
